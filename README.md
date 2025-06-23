@@ -1,6 +1,6 @@
 # Olá! Eu sou o Weberth Erik 🖥️👾🇧🇷
-- 🎓Graduado em Sistemas de informação pela Universidade Estadual do Tocantins
-- 🧑🏽‍💼Desenvolvedor FullStack no Ministério Público do Tocantins
+- 🎓 Graduado em Sistemas de informação pela Universidade Estadual do Tocantins
+- 🧑🏽‍💼 Desenvolvedor FullStack(Flutter| Django REST framework)
 - ❤️ Apaixonado por animes e programação
 
 ## Meus contatos:
