@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Weberth Erik 🖥️👾🇧🇷
 
 🎓 Graduado em Sistemas de Informação pela Universidade Estadual do Tocantins  
-💻 Desenvolvedor FullStack com foco em Flutter e Django REST Framework  
+💻 Desenvolvedor FullStack com foco em Flutter, Django REST Framework e Spring Boot 
 🚀 Apaixonado por tecnologia, animes e por transformar ideias em soluções reais  
 
 ---
@@ -13,7 +13,7 @@ Sou desenvolvedor focado na criação de aplicações completas — do backend a
 Tenho experiência no desenvolvimento de:
 
 - 📱 Aplicações Mobile com Flutter  
-- 🌐 APIs REST com Django  
+- 🌐 APIs REST com Django e Spring Boot
 - 🗄️ Modelagem e integração com bancos de dados  
 - 🐳 Ambientes conteinerizados com Docker  
 
