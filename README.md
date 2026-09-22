@@ -1,84 +1,149 @@
-# 👋 Olá! Eu sou o Weberth Erik 🖥️👾🇧🇷
+<h1 align="center">Olá, eu sou o Weberth Erik 👋</h1>
 
-🎓 Graduado em Sistemas de Informação pela Universidade Estadual do Tocantins  
-💻 Desenvolvedor FullStack com foco em Flutter, Django REST Framework e Spring Boot 
-🚀 Apaixonado por tecnologia, animes e por transformar ideias em soluções reais  
+<h3 align="center">
+  Desenvolvedor Full Stack · Mobile & Backend
+</h3>
 
----
+<p align="center">
+  Transformando ideias em aplicações, da interface à API.
+</p>
 
-## 🚀 Sobre mim
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-61DAFB?style=for-the-badge&logo=flutter&logoColor=0D1117" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Spring_Boot-A78BFA?style=for-the-badge&logo=springboot&logoColor=0D1117" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Django-34D399?style=for-the-badge&logo=django&logoColor=0D1117" alt="Django" />
+</p>
 
-Sou desenvolvedor focado na criação de aplicações completas — do backend ao frontend — prezando por código limpo, arquitetura organizada e boas práticas.
+<p align="center">
+  🎓 Sistemas de Informação · Universidade Estadual do Tocantins 🇧🇷
+</p>
 
-Tenho experiência no desenvolvimento de:
+<br />
 
-- 📱 Aplicações Mobile com Flutter  
-- 🌐 APIs REST com Django e Spring Boot
-- 🗄️ Modelagem e integração com bancos de dados  
-- 🐳 Ambientes conteinerizados com Docker  
-
-Estou sempre buscando evoluir tecnicamente e construir projetos que gerem impacto real.
-
----
-
-## 🌎 Conecte-se comigo
-
-[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-000000?style=for-the-badge)](https://weberth1233.github.io/dev_portfolio/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weberth_erik/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weberth-e-949388138/)  
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Linguagens & Frameworks
-
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
-</div>
+<p align="center">
+  <a href="https://weberth1233.github.io/dev_portfolio/">
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&logo=githubpages&logoColor=38BDF8" alt="Acessar meu portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/weberth-e-949388138/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Conectar pelo LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/weberth_erik/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6" alt="Acompanhar no Instagram" />
+  </a>
+</p>
 
 ---
 
-## 🗄️ Banco de Dados
+## 👨‍💻 Por trás do código
 
-<div style="display: inline_block"><br/>
+Sou desenvolvedor **Full Stack**, graduado em **Sistemas de Informação pela UNITINS**, com foco em aplicações **Flutter** e APIs com **Spring Boot** e **Django REST Framework**.
 
-<img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white">
+Gosto de participar da construção completa de uma solução: organizar os dados, implementar as regras de negócio e desenvolver a interface que chega ao usuário. No código, valorizo **clareza, arquitetura organizada e facilidade de manutenção**.
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile & Interfaces</h3>
+      <p>
+        Aplicações com <strong>Flutter e Dart</strong>,
+        integrando interfaces e serviços para criar
+        experiências práticas para o usuário.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & APIs</h3>
+      <p>
+        APIs REST com <strong>Spring Boot e Django REST
+        Framework</strong>, conectando regras de negócio,
+        integrações e persistência de dados.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Dados & Integrações</h3>
+      <p>
+        Modelagem e integração com bancos de dados,
+        organizando as informações que sustentam
+        cada aplicação.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐳 Ambientes & Deploy</h3>
+      <p>
+        Ambientes conteinerizados com <strong>Docker</strong>,
+        com foco em padronização e evolução
+        do processo de entrega.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  📚 Sempre aprendendo e construindo.
+  &nbsp;·&nbsp;
+  🎮 Tecnologia e animes também fazem parte da rotina.
+</p>
 
 ---
 
-## ⚙️ DevOps & Ferramentas
+## 🛠️ Meu universo de tecnologias
 
-<div style="display: inline_block"><br/>
+<h3 align="center">📱 Mobile & Frontend</h3>
 
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-<img align="center" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
-<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=54C5F8" alt="Dart" />
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=663399" alt="CSS3" />
+</p>
+
+<br />
+
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Django_REST-0D1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django REST Framework" />
+</p>
+
+<br />
+
+<h3 align="center">🗄️ Bancos de dados & Serviços</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=699ECA" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=F29111" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=54C5F8" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+</p>
+
+<br />
+
+<h3 align="center">🚀 DevOps & Ferramentas</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=2684FF" alt="Bitbucket" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=A78BFA" alt="Figma" />
+</p>
+
+<br />
 
 ---
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img
