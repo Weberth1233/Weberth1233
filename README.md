@@ -77,23 +77,21 @@ Estou sempre buscando evoluir tecnicamente e construir projetos que gerem impact
 
 ---
 
+---
+
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=weberth1233&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weberth1233&layout=compact&theme=radical"/>
+  <img
+    height="170"
+    alt="Estatísticas do GitHub de Weberth"
+    src="https://github-stats-extended.vercel.app/api?username=weberth1233&show_icons=true&theme=radical"
+  />
+  <img
+    height="170"
+    alt="Linguagens mais utilizadas"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=weberth1233&layout=compact&theme=radical"
+  />
 </p>
-
----
-
-## 💡 Filosofia
-
-> "Código não é apenas sobre funcionar, é sobre ser compreensível, escalável e impactar pessoas."
-
----
-
-⭐ Se você curtir meus projetos, considere deixar uma estrela!
-
 
 ## 🐍 Minhas contribuições
 
