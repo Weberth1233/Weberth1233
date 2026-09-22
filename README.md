@@ -93,3 +93,24 @@ Estou sempre buscando evoluir tecnicamente e construir projetos que gerem impact
 ---
 
 ⭐ Se você curtir meus projetos, considere deixar uma estrela!
+
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/weberth1233/weberth1233/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/weberth1233/weberth1233/output/github-snake.svg"
+    />
+    <img
+      alt="Cobrinha animada percorrendo minhas contribuições"
+      src="https://raw.githubusercontent.com/weberth1233/weberth1233/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
